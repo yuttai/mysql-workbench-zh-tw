@@ -1,4 +1,4 @@
-# mysql workbench 菜单中文汉化
+# mysql workbench 功能表繁中漢化
 
 ### 说明
 
