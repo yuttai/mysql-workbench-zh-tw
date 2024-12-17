@@ -10,7 +10,7 @@
 
 
 
-## 文件说明
+## 文件說明
 
 * main_menu_en.xml *英文*(*原版自带*)
 * main_menu.xml *中文版*
