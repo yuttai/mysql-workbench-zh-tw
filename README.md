@@ -1,12 +1,12 @@
 # mysql workbench 功能表繁中漢化
 
-### 说明
+### 說明
 
->  MySQL workbench 版本: 8.0.x
+> MySQL workbench 版本: 8.0.x
 >
-> mysql workbench 是一个面向数据库架构师、开发人员和dba的统一可视化工具。MySQL工作台为服务器配置、用户管理、备份等提供了数据建模、SQL开发和全面的管理工具。MySQL Workbench在Windows、Linux和Mac OS X上可用。123456798
+> mysql workbench 是一個面向資料庫架構師、開發人員和dba的統一視覺化工具。 MySQL工作台為伺服器設定、使用者管理、備份等提供了資料建模、SQL開發和全面的管理工具。 MySQL Workbench在Windows、Linux和Mac OS X上可用。
 >
-> MySQL工作台使DBA、开发人员或数据架构师能够可视化地设计、建模、生成和管理数据库。它包括数据建模师创建复杂的ER模型、正向和逆向工程所需的一切，还提供了执行困难的变更管理和文档任务（通常需要大量时间和精力）所需的关键功能。123456468
+>MySQL工作台讓DBA、開發人員或資料架構師能夠視覺化地設計、建模、產生和管理資料庫。它包括資料建模師創建複雜的ER模型、正向和逆向工程所需的一切，還提供了執行困難的變更管理和文件任務（通常需要大量時間和精力）所需的關鍵功能。
 
 
 
@@ -15,13 +15,13 @@
 * main_menu_en.xml *英文*(*原版自带*)
 * main_menu.xml *中文版*
 
-> PS：为什么还有英文版本呢？
+>PS：為什麼還有英文版呢？
 >
-> * 主要是与现有 `mysql workbranch` 的 `main_menu.xml` 进行对比，新增删除等，毕竟并不是所有人都是用的 `8.x` 版本，日后新增菜单也可以很快找到不同来进行修改。
+> * 主要與現有`mysql workbranch` 的`main_menu.xml` 進行對比，新增刪除等，畢竟並不是所有人都是用的`8.x` 版本，日後新增選單也可以很快找到不同來進行修改。
 
-### 使用说明
+### 使用說明
 
-复制 `main_menu.xml` 替换 `mysql workbench` 安装目录的 `data/main_menu.xml` 文件。
+複製 `main_menu.xml` 取代 `mysql workbench` 安裝目錄的 `data/main_menu.xml` 檔案。
 
 
 
