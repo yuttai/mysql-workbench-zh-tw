@@ -21,7 +21,9 @@
 
 ### 使用說明
 * 1.從github上下載檔案，點一下綠色的code案紐並點下下載ZIP
+* ![image](https://github.com/user-attachments/assets/be0e7461-2fe2-4d85-9e13-ddfb9bc8ff1f)
 * 2.建立一個文件夾，裡面分別有中文及英文的文件夾，這樣到時候就不會搞混哪個是英文版哪個是中文版的文件，然後解壓縮
+* 
 * 3.右鍵點選workbrench之後再點選`到檔案位置`
 * 4.複製 `main_menu.xml` 取代 `mysql workbench` 安裝目錄的 `data` 中的`main_menu.xml` 檔案。
 * 5.如果有不成功或無法打開mysql的情況，可以檢查一下檔案名稱是否與原版一樣，如果不同的話會打不開
