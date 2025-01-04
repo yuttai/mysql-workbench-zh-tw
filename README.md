@@ -20,8 +20,9 @@
 > * 主要與現有`mysql workbranch` 的`main_menu.xml` 進行對比，新增刪除等，畢竟並不是所有人都是用的`8.x` 版本，日後新增選單也可以很快找到不同來進行修改。
 
 ### 使用說明
-
-複製 `main_menu.xml` 取代 `mysql workbench` 安裝目錄的 `data/main_menu.xml` 檔案。
-
-
+1.從github上下載檔案，點一下綠色的code案紐並點下下載ZIP
+2.建立一個文件夾，裡面分別有中文及英文的文件夾，這樣到時候就不會搞混哪個是英文版哪個是中文版的文件，然後解壓縮
+3.右鍵點選workbrench之後再點選到檔案位置
+4.複製 `main_menu.xml` 取代 `mysql workbench` 安裝目錄的 `data` 中的`main_menu.xml` 檔案。
+5.如果有不成功或無法打開mysql的情況，可以檢查一下檔案名稱是否與原版一樣，如果不同的話會打不開
 
