@@ -10,7 +10,7 @@
     </value>
     <value type="object" struct-name="app.PaperType" id="com.mysql.wb.papertype.legal">
       <value type="string" key="name">na-legal</value>
-      <value type="string" key="caption">Legal法律紙 (8.5 in. x 14 in.)</value>
+      <value type="string" key="caption">法律紙 (8.5 in. x 14 in.)</value>
       <value type="real" key="width">215.9</value>
       <value type="real" key="height">355.6</value>
     </value>
