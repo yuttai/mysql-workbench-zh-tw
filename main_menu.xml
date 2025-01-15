@@ -175,7 +175,7 @@
                     <link type="object" key="owner" struct-name="app.MenuItem">com.mysql.wb.menu.file</link>
                     <value type="string" key="accessibilityName">Save Model As</value>
                     <value type="string" key="context">*model</value>
-                    <value type="string" key="caption">Model 另存為...</value>
+                    <value type="string" key="caption">模型另存為...</value>
                     <value type="string" key="name">save_document_as</value>
                     <value type="string" key="command">plugin:wb.file.saveModelAs</value>
                     <value type="string" key="itemType">action</value>
@@ -185,7 +185,7 @@
                     <link type="object" key="owner" struct-name="app.MenuItem">com.mysql.wb.menu.file</link>
                     <value type="string" key="accessibilityName">Save Script As</value>
                     <value type="string" key="context">*query</value>
-                    <value type="string" key="caption">Script 另存為...</value>
+                    <value type="string" key="caption">腳本另存為...</value>
                     <value type="string" key="name">save_sql_as</value>
                     <value type="string" key="command">builtin:query.saveFileAs</value>
                     <value type="string" key="itemType">action</value>
@@ -257,7 +257,7 @@
                         <value type="object" struct-name="app.MenuItem" id="com.mysql.wb.menu.file.export.png">
                             <link type="object" key="owner" struct-name="app.MenuItem">com.mysql.wb.menu.file.export</link>
                             <value type="string" key="accessibilityName">Export as PNG</value>
-                            <value type="string" key="caption">導出为PNG...</value>
+                            <value type="string" key="caption">導出為PNG...</value>
                             <value type="string" key="name">export_image_png</value>
                             <value type="string" key="command">plugin:wb.export.exportPNG</value>
                             <value type="string" key="itemType">action</value>
@@ -281,7 +281,7 @@
                         <value type="object" struct-name="app.MenuItem" id="com.mysql.wb.menu.file.export.ps">
                             <link type="object" key="owner" struct-name="app.MenuItem">com.mysql.wb.menu.file.export</link>
                             <value type="string" key="accessibilityName">Export as Single Page Postscript File</value>
-                            <value type="string" key="caption">導出为單頁PostScript文件...</value>
+                            <value type="string" key="caption">導出為單頁PostScript文件...</value>
                             <value type="string" key="name">export_image_ps</value>
                             <value type="string" key="command">plugin:wb.export.exportPS</value>
                             <value type="string" key="itemType">action</value>
