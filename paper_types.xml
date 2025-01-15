@@ -4,7 +4,7 @@
   <value type="list" key="items" content-type="object" content-struct-name="app.PaperType">
     <value type="object" struct-name="app.PaperType" id="com.mysql.wb.papertype.letter">
       <value type="string" key="name">na-letter</value>
-      <value type="string" key="caption">信紙 (8.5 in. x 11 in.)</value>
+      <value type="string" key="caption">letter信紙 (8.5 in. x 11 in.)</value>
       <value type="real" key="width">215.9</value>
       <value type="real" key="height">279.4</value>
     </value>
